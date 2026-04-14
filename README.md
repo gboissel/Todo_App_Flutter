@@ -32,15 +32,15 @@ Et l'utilisation de l'architecture MVVM
  ```bash
    git clone "https://github.com/gboissel/Todo_App_Flutter"
    ```
-3. executez ces commandes
-   ```bash
-   cd todo-app-flutter
-   flutter pub get
-   flutter devices
-   flutter run
-   ```
-4. en cas de probleme avec le cache
-   ```bash
-   flutter clean
-   flutter pub get
-   ```
+2. executez ces commandes
+  ```bash
+  cd todo-app-flutter
+  flutter pub get
+  flutter devices
+  flutter run
+  ```
+3. en cas de probleme avec le cache
+  ```bash
+  flutter clean
+  flutter pub get
+  ```
